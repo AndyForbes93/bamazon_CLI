@@ -4,6 +4,7 @@ Hello and Welcome to Bamazon Marketplace
 
 This is an application built with Node.js, Javascript, MySQL, and used the cli-table , mySQL, and inquirer npm packages
 
+Click the image below to see a walktrough!  
 [![Link to Bamazon Walkthrough](https://img.youtube.com/vi/6IhnAziE50I/0.jpg)](https://youtu.be/6IhnAziE50I)
 
 For Customers:  
