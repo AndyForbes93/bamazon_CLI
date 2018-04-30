@@ -1,0 +1,25 @@
+{
+  "name": "bamazon_cli",
+  "version": "1.0.0",
+  "description": "A mock online store front using node.js and mySQL to mimic a certain popular online shopping site",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyForbes93/bamazon_CLI.git"
+  },
+  "author": "Andy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndyForbes93/bamazon_CLI/issues"
+  },
+  "homepage": "https://github.com/AndyForbes93/bamazon_CLI#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0",
+    "table": "^4.0.3"
+  }
+}
